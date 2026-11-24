@@ -1,0 +1,17 @@
+cliente_nuevo_id,ejecutivo_id,regla_aplicada
+N-001,E5,5
+N-002,E7,2 y 5
+N-003,E2,5
+N-004,E2,2 y 4
+N-005,E9,1
+N-006,E12,5
+N-007,E2,2 y 1
+N-008,E7,5
+N-009,E2,5
+N-010,pendiente,sin regla: falta la zona
+N-011,E11,1
+N-012,pendiente,8 y 3
+N-013,E11,5
+N-014,E7,5
+N-015,E5,5
+N-016,E2,2 y 5

@@ -1,6 +1,6 @@
 # Reglas de asignación de carteras
 
-1. Todo cliente nuevo se asigna a un ejecutivo activo de su zona.
+1. Todo cliente nuevo se asigna a un ejecutivo activo de su zona. La zona pasa antes que la especialidad. La especialidad (regla 5) solo desempata entre los ejecutivos de la zona que pueden recibir al cliente.
 2. Los clientes de potencial A, o con facturación anual sobre $150M, se asignan a un ejecutivo senior.
 3. Un ejecutivo no puede superar su capacidad efectiva. Un ejecutivo en ramp-up tiene la mitad de su capacidad durante 90 días desde su ingreso; uno con licencia tiene cero.
 4. Si los ejecutivos de la zona no tienen espacio, el cliente pasa a un ejecutivo de una zona vecina con espacio.

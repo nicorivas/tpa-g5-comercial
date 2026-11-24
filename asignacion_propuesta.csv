@@ -1,0 +1,17 @@
+cliente_nuevo_id,ejecutivo_id,regla_aplicada
+N-001,E5,1a
+N-002,E7,2 y 1a
+N-003,E12,1b
+N-004,E2,2 y 1d
+N-005,E9,1b
+N-006,E12,1a
+N-007,E2,2 y 1b
+N-008,E5,1b
+N-009,E2,1a
+N-010,pendiente,1 (zona no informada)
+N-011,E11,1b
+N-012,pendiente,8 y 3 (ejecutivo original E4 con licencia)
+N-013,E11,1a
+N-014,E9,1d
+N-015,E5,1a
+N-016,E7,2 y 1b
